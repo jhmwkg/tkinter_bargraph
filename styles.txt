@@ -1,0 +1,5 @@
+*Button*relief : flat
+*Button*width : 8
+*Button*background : #f2f2f2
+*Button*padx : 5
+*Button*pady : 5
